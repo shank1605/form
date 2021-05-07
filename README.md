@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+Add your MONGO_URI to the serever.js file. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Install dependencies for server
+# Install dependencies for client
+# Run the Express server only
+npm start
+
+# Run the React client only
+npm start
+
+# Server runs on http://localhost:8000 and client on http://localhost:3000
+# Getting Started with Create React App
 
 ## Available Scripts
 
